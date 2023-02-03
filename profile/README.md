@@ -1,1 +1,1 @@
-![Community Board](profile/lince.jpg)
+![Community Board](profile/lince-eyes.jpeg)
