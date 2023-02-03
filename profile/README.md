@@ -1,1 +1,1 @@
-![Community Board](https://i.pinimg.com/736x/6c/c2/26/6cc226b0adc91b67a6ced6a9328e7307.jpg)
+![Community Board](lince.jpg)
