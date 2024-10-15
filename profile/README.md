@@ -1,4 +1,4 @@
-![Community Board](profile/lince-eyes.jpeg)
+![Community Board](profile/logo-150-150.png)
 
 Kubediscovery lince is a free project for you to monitor the ecosystem of Kubernetes, and the cloud, moreover the proposal organizes the labels, products, and components in your ecosystem and shows them in diagram format.
 
